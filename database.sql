@@ -1,5 +1,5 @@
 --connect to data base root mysql
-mysql -u root -p
+mysql -u root -p  --(sudo mysql -u root -p)
 --print all data bases in localhost
 SHOW TABLES;
 --create data base  DB --you can use another name
